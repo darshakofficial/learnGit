@@ -7,3 +7,5 @@ MY TO-DO LIST
 5. Visit aunt.
 6. Apply for remote jobs.
 7. git
+8. Made git commit
+9. Made git push
